@@ -2,7 +2,7 @@
 
 AniRadar is a private anime tracker for one invite-only group of friends.
 
-**Downloading it won't do anything for you unless you've been invited.** The app only opens with a one-time invite code that the group's admin makes for you. There's no sign-up, and each code works once, for one person.
+**Downloading it won't do anything for you unless you've been invited.** The app only opens with a one-time invite code that i would make for you. There's no sign-up, and each code works once, for one person.
 
 ## Invited?
 
