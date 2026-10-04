@@ -14,4 +14,4 @@ After that, AniRadar keeps itself up to date.
 
 ## Not invited?
 
-There's nothing to see without a code. Ask the person who runs your group for one.
+There's nothing to see without a code. Ask me for one
